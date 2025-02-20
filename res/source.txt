@@ -1,0 +1,1 @@
+https://github.com/benangmerah/wilayah/blob/master/datasources/daftar-nama-daerah.csv
